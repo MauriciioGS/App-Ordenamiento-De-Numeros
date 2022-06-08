@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Examen Final Ordenamiento</string>
+    <string name="texto_instrucciones">Esta aplicación permite ingresar cualquier cantidad de valores en el campo que se muestra continuación para posteriormente ordenarlos.\nDeberá ingresar números de hasta 5 dígitos. Para agregar un número: digitelo en el campo indicado y toque el ícono con una palomita para añadirlo a la lista.\nUna vez ingresados todos, seleccione un botón para ordenar.</string>
+    <string name="helper_text">Sólo números de hasta 5 digitos</string>
+    <string name="input_a_num">Ingresa un número</string>
+    <string name="bienvenido">¡Bienvenido!</string>
+    <string name="ordenamiento2">Ordenar de mayor a menor</string>
+    <string name="ordenamiento1">Ordenar de menor a mayor</string>
+    <string name="ver_n_meros">Ver números</string>
+    <string name="introducidos">Números introducidos:</string>
+    <string name="menor_mayor">Ordenados de menor a mayor:</string>
+    <string name="mayor_menor">Ordenados de mayor a menor:</string>
+    <string name="alert_empty">Debes introducir números</string>
+</resources>
