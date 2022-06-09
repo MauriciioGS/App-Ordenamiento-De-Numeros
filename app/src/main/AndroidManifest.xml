@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.mauriciogs.examenfinal_ordenamiento">
+    package="lira_navarro.examenfinal_ordenamiento">
 
     <application
         android:allowBackup="true"
@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ExamenFinal_Ordenamiento">
         <activity
-            android:name=".MainActivity"
+            android:name="com.lira_navarro.examenfinal_ordenamiento.MainActivity"
             android:screenOrientation="portrait"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:exported="true">

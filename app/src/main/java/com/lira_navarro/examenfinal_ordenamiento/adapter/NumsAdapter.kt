@@ -1,10 +1,10 @@
-package com.mauriciogs.examenfinal_ordenamiento.adapter
+package com.lira_navarro.examenfinal_ordenamiento.adapter
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.mauriciogs.examenfinal_ordenamiento.NumsViewHolder
-import com.mauriciogs.examenfinal_ordenamiento.R
+import com.lira_navarro.examenfinal_ordenamiento.NumsViewHolder
+import lira_navarro.examenfinal_ordenamiento.R
 
 class NumsAdapter(
     val numlist : ArrayList<Int>

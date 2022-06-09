@@ -1,4 +1,4 @@
-package com.mauriciogs.examenfinal_ordenamiento
+package com.lira_navarro.examenfinal_ordenamiento
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -7,8 +7,9 @@ import android.text.TextWatcher
 import android.view.View
 import android.widget.Toast
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.mauriciogs.examenfinal_ordenamiento.adapter.NumsAdapter
-import com.mauriciogs.examenfinal_ordenamiento.databinding.ActivityMainBinding
+import com.lira_navarro.examenfinal_ordenamiento.adapter.NumsAdapter
+import lira_navarro.examenfinal_ordenamiento.R
+import lira_navarro.examenfinal_ordenamiento.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 

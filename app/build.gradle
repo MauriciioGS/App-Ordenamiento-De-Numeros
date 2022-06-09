@@ -7,7 +7,7 @@ android {
     compileSdk 31
 
     defaultConfig {
-        applicationId "com.mauriciogs.examenfinal_ordenamiento"
+        applicationId "com.lira_navarro.examenfinal_ordenamiento"
         minSdk 24
         targetSdk 31
         versionCode 1

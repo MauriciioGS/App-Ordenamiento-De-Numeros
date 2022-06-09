@@ -1,4 +1,4 @@
-package com.mauriciogs.examenfinal_ordenamiento
+package com.lira_navarro.examenfinal_ordenamiento
 
 import org.junit.Test
 
